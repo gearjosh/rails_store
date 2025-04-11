@@ -5,3 +5,7 @@ one:
 
 two:
   name: MyString
+
+hat:
+  name: Hat
+  inventory_count: 15

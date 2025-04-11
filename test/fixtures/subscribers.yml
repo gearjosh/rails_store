@@ -7,3 +7,11 @@ one:
 two:
   product: two
   email: MyString
+
+josh:
+  product: hat
+  email: other.josh.gearheart+rails@gmail.com
+
+jeff:
+  product: hat
+  email: jeff@example.org
